@@ -9,6 +9,7 @@ Admin can:
     -add/remove users
 
 User can: 
+
     -edit profile
     
     -remove own reserves
