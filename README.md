@@ -2,6 +2,7 @@ A Car Rent Laravel web application.
 
 The application runs from databade with MySql. I used a template, for frontend. I did the backend, i made two rules. Admin and User.
 Admin can:
+
     -add/remove/edit car
     
     -remove reserves
